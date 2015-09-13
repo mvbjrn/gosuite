@@ -1,4 +1,10 @@
+[![Build Status](https://travis-ci.org/mvbjrn/gosuite.svg?branch=master)](https://travis-ci.org/mvbjrn/gosuite)
+[![Coverage](http://gocover.io/_badge/github.com/mvbjrn/gosuite)](http://gocover.io/github.com/mvbjrn/gosuite)
+[![GoDoc](https://godoc.org/github.com/mvbjrn/gosuite?status.svg)](https://godoc.org/github.com/mvbjrn/gosuite)
+
 # gosuite
+
+
 
 ## gofile
 
